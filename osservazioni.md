@@ -25,7 +25,7 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: abbiamo aggiunto le modifiche sulla frase
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
