@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: 
 
 Componenti (Lavinia Micocci laviniamicocci, Anna Lucia Orecchini orecchini2260654):
 
@@ -40,9 +40,9 @@ se scrivo un numero invece che una parola al primo argomento, stampa il numero. 
 
 ## Step 2 — Eco: seconda prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: ho eseguito ./eco ciao 12 3.5, ottenendo ciao 12 3.500000. Inserendo invece ./eco ciao dodici 3.5, il programma ha segnalato un errore.
 
-Che cosa ho capito su testo, conversioni e stampa:
+Che cosa ho capito su testo, conversioni e stampa: Gli argomenti vengono ricevuti come stringhe. Le funzioni leggi_intero() e leggi_reale() li convertono in numeri e verificano che siano validi. printf stampa i valori nel formato richiesto.
 
 ## Step 2 — Risultato ed errori
 
@@ -58,6 +58,6 @@ Quando serve ricompilare e quando basta cambiare gli argomenti: dipende da come 
 
 ## Step 2 — Git
 
-Come riconosco nella cronologia i commit dei due step:
+Come riconosco nella cronologia i commit dei due step: con il comando git log --oneline posso visualizzare i commit e distinguerli attraverso i messaggi associati, che descrivono le modifiche effettuate nei due step.
 
-Come ho verificato che la versione finale sia presente su GitHub:
+Come ho verificato che la versione finale sia presente su GitHub: dopo aver eseguito git push, ho controllato su GitHub che fossero presenti i commit più recenti e che i file contenessero le modifiche effettuate.
